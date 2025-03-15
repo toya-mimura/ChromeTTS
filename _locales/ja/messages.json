@@ -1,0 +1,83 @@
+{
+  "extensionName": {
+    "message": "テキスト読み上げ拡張機能"
+  },
+  "extensionDescription": {
+    "message": "ウェブページの指定したテキストを読み上げる拡張機能"
+  },
+  "contextMenuTitle": {
+    "message": "選択したテキストを読み上げる"
+  },
+  "settingsTitle": {
+    "message": "テキスト読み上げ設定"
+  },
+  "ttsMode": {
+    "message": "読み上げモード:"
+  },
+  "builtinTts": {
+    "message": "内蔵 TTS"
+  },
+  "webApiTts": {
+    "message": "外部 Web API"
+  },
+  "voice": {
+    "message": "音声:"
+  },
+  "defaultVoice": {
+    "message": "デフォルト"
+  },
+  "apiUrl": {
+    "message": "API URL:"
+  },
+  "apiKey": {
+    "message": "API キー:"
+  },
+  "rate": {
+    "message": "速度:"
+  },
+  "pitch": {
+    "message": "音程:"
+  },
+  "saveButton": {
+    "message": "保存"
+  },
+  "testButton": {
+    "message": "テスト"
+  },
+  "language": {
+    "message": "言語:"
+  },
+  "settingsSaved": {
+    "message": "設定を保存しました"
+  },
+  "testMessage": {
+    "message": "これはテキスト読み上げのテストです"
+  },
+  "apiTestNotAvailable": {
+    "message": "外部APIでのテストは現在のポップアップからは実行できません"
+  },
+  "languageSpeedSettings": {
+    "message": "言語ごとの速度設定"
+  },
+  "japaneseSpeed": {
+    "message": "日本語の速度:"
+  },
+  "englishSpeed": {
+    "message": "英語の速度:"
+  },
+  "defaultSpeed": {
+    "message": "その他の言語の速度:"
+  },
+  "languageVoiceSettings": {
+  "message": "言語ごとの音声設定"
+  },
+  "japaneseVoice": {
+    "message": "日本語の音声:"
+  },
+  "englishVoice": {
+    "message": "英語の音声:"
+  },
+  "autoDetect": {
+    "message": "自動検出"
+  }
+}

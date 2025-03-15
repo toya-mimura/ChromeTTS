@@ -1,0 +1,83 @@
+{
+  "extensionName": {
+    "message": "Text-to-Speech Extension"
+  },
+  "extensionDescription": {
+    "message": "Reads aloud selected text on web pages"
+  },
+  "contextMenuTitle": {
+    "message": "Read selected text aloud"
+  },
+  "settingsTitle": {
+    "message": "Text-to-Speech Settings"
+  },
+  "ttsMode": {
+    "message": "TTS Mode:"
+  },
+  "builtinTts": {
+    "message": "Built-in TTS"
+  },
+  "webApiTts": {
+    "message": "External Web API"
+  },
+  "voice": {
+    "message": "Voice:"
+  },
+  "defaultVoice": {
+    "message": "Default"
+  },
+  "apiUrl": {
+    "message": "API URL:"
+  },
+  "apiKey": {
+    "message": "API Key:"
+  },
+  "rate": {
+    "message": "Speech Rate:"
+  },
+  "pitch": {
+    "message": "Pitch:"
+  },
+  "saveButton": {
+    "message": "Save"
+  },
+  "testButton": {
+    "message": "Test"
+  },
+  "language": {
+    "message": "Language:"
+  },
+  "settingsSaved": {
+    "message": "Settings saved"
+  },
+  "testMessage": {
+    "message": "This is a test of text-to-speech"
+  },
+  "apiTestNotAvailable": {
+    "message": "External API testing is not available from this popup"
+  },
+  "languageSpeedSettings": {
+    "message": "Language-specific Speed Settings"
+  },
+  "japaneseSpeed": {
+    "message": "Japanese Speed:"
+  },
+  "englishSpeed": {
+    "message": "English Speed:"
+  },
+  "defaultSpeed": {
+    "message": "Default Speed for Other Languages:"
+  },
+  "languageVoiceSettings": {
+  "message": "Language-specific Voice Settings"
+  },
+  "japaneseVoice": {
+    "message": "Japanese Voice:"
+  },
+  "englishVoice": {
+    "message": "English Voice:"
+  },
+  "autoDetect": {
+    "message": "Auto Detect"
+  }
+}
