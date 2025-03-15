@@ -5,7 +5,7 @@
 - 作業中
 
 ## ToDo
-- add icons below
+- add icons below into `images` folder.
   - icon16.png
   - icon48.png
   - icon128.png
